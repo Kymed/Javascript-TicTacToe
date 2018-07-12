@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 18px;
+  color: black;
+}
+
+h4 {
+  color: brown;
+  font-size: 16px;
+
+}
+
+p {
+  font-size:24px;
+}
+
+#gametable, ul {
+  display: table;
+  margin: 0 auto;
+}
+
+tr, th {
+  border: 1px solid black;
+}
+
+li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
